@@ -1,10 +1,10 @@
 class Demo{
- System.out.println("Hello World");
- System.out.println("Hello world 2");
+ System.out.println("Hello World1");
+ System.out.println("Hello world2");
+ System.out.println("Hello World3");
 
- System.out.println("Hello World 3");
+ System.out.println("Hello World4");
+ System.out.println("Hello World5");
 }
 
-System.out.println("Hello World3");
-}
 
