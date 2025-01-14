@@ -21,5 +21,11 @@ System.out.println("this will we commit after git stash");
 
 }
 
+public void gitNonStash2(){
+    System.out.println(){
+        System.out.println("This is 2nd gitNonStash");
+    }
+    
+}
 }
 
