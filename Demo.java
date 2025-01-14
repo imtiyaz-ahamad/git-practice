@@ -44,5 +44,10 @@ public void gitNonStash4(){
     System.out.println("Git Stash4");
 }
 
+public void gitStash4(){
+    System.out.println("gitStash4");
+}
+
+
 }
 
