@@ -42,7 +42,9 @@ public void gitStash3(){
     System.out.println("Git Stash3");
     System.
 }
-
+public void pushBack(){
+    System.out.println("This commit will be deleted..");
+}
 
 
 }
