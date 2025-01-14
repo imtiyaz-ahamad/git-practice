@@ -46,5 +46,12 @@ public void gitStash3(){
 public void backLocalRepo(){
     System.out.println("this will be deleted from commit of local");
 }
+public void backLocalRepo2(){
+    System.out.println("this will be deleted from commit of local");
+}
+public void backLocalRepo3(){
+    System.out.println("this will be deleted from commit of local");
+}
+
 }
 
