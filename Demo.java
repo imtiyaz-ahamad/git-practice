@@ -33,6 +33,9 @@ public void gitStash2(){
     System.out.println("this is 2nd which will commited after priority function get completed");
     System.
 }
+public void gitNonStash3(){
+    System.out.println("this is gitNonStash3");
+}
 
 }
 
