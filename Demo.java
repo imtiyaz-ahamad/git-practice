@@ -3,13 +3,10 @@ class Demo{
  System.out.println("Hello world2");
  System.out.println("Hello World3");
  System.out.println("Hello World4");
-
-
  System.out.println("Hello World5");
  System.out.println("Hello World6");
  System.out.println("Hello World7");
-    public void nonStash(){
-
+ public void nonStash(){
         System.out.println("Hello World");
     }
 
@@ -21,30 +18,21 @@ public void gitNonStash(){
 System.out.println("this will we commit after git stash");
 
 }
-
-
 public void gitNonStash2(){
-    System.out.println(){
-        System.out.println("This is 2nd gitNonStash");
-    }
-    
+           System.out.println("This is 2nd gitNonStash");     
 }
 
 public void gitStash2(){
     System.out.println("this is 2nd which will commited after priority function get completed");
-    System.
-}
+   }
 public void gitNonStash3(){
     System.out.println("this is gitNonStash3");
 }
 
 public void gitStash3(){
     System.out.println("Git Stash3");
-    System.
-}
+   }
 
-public void backLocalRepo(){
-    System.out.println("this will be deleted from commit of local");
-}
+
 }
 
