@@ -21,11 +21,19 @@ System.out.println("this will we commit after git stash");
 
 }
 
+<<<<<<< Updated upstream
 public void gitNonStash2(){
     System.out.println(){
         System.out.println("This is 2nd gitNonStash");
     }
     
 }
+=======
+public void gitStash2(){
+    System.out.println("this is 2nd which will commited after priority function get completed");
+    System.
+}
+
+>>>>>>> Stashed changes
 }
 
