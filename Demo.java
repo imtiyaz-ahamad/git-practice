@@ -40,6 +40,9 @@ public void gitStash3(){
     System.out.println("Git Stash3");
     System.
 }
+public void gitNonStash4(){
+    System.out.println("Git Stash4");
+}
 
 }
 
