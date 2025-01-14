@@ -3,7 +3,6 @@ class Demo{
  System.out.println("Hello world2");
  System.out.println("Hello World3");
  System.out.println("Hello World4");
-<<<<<<< Updated upstream
  System.out.println("Hello World5");
  System.out.println("Hello World6");
  System.out.println("Hello World7");
@@ -35,6 +34,11 @@ public void gitStash2(){
 }
 public void gitNonStash3(){
     System.out.println("this is gitNonStash3");
+}
+
+public void gitStash3(){
+    System.out.println("Git Stash3");
+    System.
 }
 
 }
